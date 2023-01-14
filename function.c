@@ -1,3 +1,3 @@
 Initial codes
-dev1
-function1
+dev2
+function2
