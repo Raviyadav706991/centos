@@ -4,6 +4,7 @@ Initial codes
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -26,3 +27,5 @@ Initial codes
 =======
 Function 1
 
+=======
+>>>>>>> 5588b7977457c29f420af003300b226e3fc473d1
