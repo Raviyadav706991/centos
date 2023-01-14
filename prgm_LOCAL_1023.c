@@ -8,7 +8,6 @@ Initial codes
 
 
 
-
 ^X
 
 
@@ -22,7 +21,4 @@ Initial codes
 ^T
 
 
-
-=======
-Function 1
 
