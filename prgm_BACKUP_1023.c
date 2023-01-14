@@ -1,6 +1,6 @@
 Initial codes
 
-
+<<<<<<< HEAD
 
 
 
@@ -25,4 +25,4 @@ Initial codes
 
 =======
 Function 1
-
+>>>>>>> new2
